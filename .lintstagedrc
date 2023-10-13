@@ -1,7 +1,6 @@
 {
 	"src/**/*.{ts,tsx}": [
 		"eslint --fix",
-		"yarn cypress-ci",
 		"git add ."
 	]
 }
