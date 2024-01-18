@@ -15,10 +15,6 @@
     "incremental": true,
 		"baseUrl": "./",
     "paths": {
-      "@/layouts": ["./src/components/layouts"],
-			"@/layouts/*": ["./src/components/layouts/*"],
-      "@/ui": ["./src/components/ui"],
-      "@/ui/*": ["./src/components/ui/*"],
       "@/*": ["./src/*"]
     }
   },
