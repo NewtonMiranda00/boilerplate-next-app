@@ -1,6 +1,6 @@
 {
   "name": "boilerplate-next-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "next build",
@@ -8,6 +8,10 @@
     "lint": "next lint",
     "prepare": "husky install",
     "start": "next start"
+  },
+  "engines": {
+    "node": "20.11.0",
+    "npm": "10.2.4"
   },
   "dependencies": {
     "next": "13.4.19",
